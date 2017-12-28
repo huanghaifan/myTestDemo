@@ -1,0 +1,7 @@
+ext {
+    extBuild = [
+            compileSdkVersion : 27,
+            minSdkVersion     : 19,
+            targetSdkVersion    : 27
+    ]
+}
